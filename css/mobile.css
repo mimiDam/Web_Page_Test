@@ -1,0 +1,460 @@
+@media screen and (max-width: 320px) {
+  body {
+    width: 320px;
+    margin-left: -10px;
+  }
+  .hero-img {
+    width: 320px;
+    height: 120px;
+  }
+  .hero-img img {
+    width: 100%;
+    height: 100%;
+  }
+  .relativetext {
+    top: 10px;
+    left: 30px;
+  }
+  .relativetext h3 {
+    width: 160px;
+    font-size: 12px;
+  }
+  .relativetext p {
+    width: 180px;
+    font-size: 10px;
+    line-height: 10px;
+  }
+  .container {
+    width: 250px;
+  }
+  .one-box {
+    padding: 20px 0;
+    gap: 10px;
+  }
+  .onetext h1 {
+    height: 100px;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .one-small-text {
+    width: 200px;
+    height: 60px;
+    margin-top: -60px;
+  }
+  .one-small-text p {
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+  }
+  .buy-now-box {
+    display: inline-block;
+    align-items: center;
+    padding: 0px;
+    gap: 15px;
+    width: 250px;
+  }
+  .buy-now {
+    display: block;
+  }
+  .buy-now-side {
+    width: 250px;
+    margin-bottom: 50px;
+  }
+  .buy-now-header {
+    width: 250px;
+  }
+  .buy-now-header img {
+    width: 230px;
+  }
+  .buy-now-prod {
+    width: 250px;
+    height: 200px;
+  }
+  .buy-now-prod img {
+    width: 230px;
+  }
+  .buy-now-price {
+    height: 120px;
+    margin: 40px auto;
+  }
+  .buy-now-price img {
+    width: 180px;
+    margin: 20px;
+  }
+  .small {
+    padding: 12px 0px;
+    width: 220px;
+    height: 60px;
+    margin: 0 auto;
+  }
+  .new-width {
+    width: 220px;
+  }
+  .img-wrap {
+    height: 30px;
+    margin: 0px 10px;
+  }
+  .img-wrap img {
+    width: 120px;
+  }
+  .regular-price {
+    margin: 10px auto;
+    width: 150px;
+  }
+  .under-button {
+    width: 250px;
+    gap: 10px;
+  }
+  .under-button p {
+    font-size: 12px;
+    line-height: 10px;
+    width: 270px;
+  }
+  .green {
+    gap: 10px;
+    height: 110px;
+  }
+  .green p {
+    font-size: 20px;
+    line-height: 20px;
+    height: 112px;
+  }
+  .frame {
+    margin-top: -25px;
+    width: 50px;
+    height: 50px;
+  }
+
+  .cards-box {
+    display: block;
+  }
+  .row {
+    display: inline-block;
+    width: 250px;
+    margin: 0 37px;
+  }
+  .side {
+    display: block;
+    width: 100%;
+    height: 550px;
+  }
+  .side1 {
+    height: 450px;
+  }
+
+  .side img {
+    width: 100%;
+    height: 200px;
+  }
+  .left-text h1 {
+    font-size: 18px;
+    height: 25px;
+  }
+  .left-text p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .red-text p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .buy-box {
+    width: 280px;
+    height: 180px;
+    padding: 0 25px;
+  }
+  .buy-button1 {
+    width: 280px;
+    height: 60px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffd800;
+    gap: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+
+  .buy-button1 p {
+    width: 147px;
+    height: 30px;
+    font-family: "Plus Jakarta Sans";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .comments {
+    display: inline-block;
+    width: 320px;
+  }
+  .halfpart {
+    width: 220px;
+    height: 150px;
+    margin: 30px auto 0 auto;
+    padding-top: 20px;
+  }
+  .comment-text {
+    width: 220px;
+  }
+  .comment-text p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .comment-name p {
+    font-size: 12px;
+  }
+  .undercomment {
+    width: 230px;
+    padding-top: 0;
+  }
+  .three-header {
+    width: 320px;
+  }
+  .three-header h1 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 30px;
+  }
+  .three-header p {
+    font-size: 12px;
+    line-height: 20px;
+    margin: 10px 30px;
+  }
+  .single-box {
+    display: inline-block;
+    width: 250px;
+    margin: 20px 40px;
+    padding: 0;
+  }
+  .left {
+    width: 250px;
+    margin-top: 30px;
+    gap: 0;
+  }
+  .left-header h1 {
+    font-size: 18px;
+    line-height: 20px;
+    margin: 0 10px;
+  }
+  .three-left-text p {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 10px;
+  }
+  li {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 10px;
+  }
+  .right {
+    justify-content: center;
+  }
+  .right img {
+    width: 70%;
+  }
+  .nw p {
+    width: 320px;
+  }
+  .four-margin {
+    margin: 40px 37px;
+  }
+  .four-text {
+    margin: 40px;
+  }
+  .four-text p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .green-box {
+    width: 180px;
+  }
+  .green-box-head p {
+    font-size: 16px;
+    line-height: 30px;
+  }
+  .green-box-fp {
+    display: inline-block;
+  }
+  .fp-left {
+    margin: 0 30px;
+  }
+  .fp-left p {
+    font-size: 12px;
+    margin: 0 10px;
+    text-align: center;
+  }
+  .fp-right {
+    align-items: center;
+    width: 180px;
+    height: 250px;
+    margin: 0 auto;
+  }
+  .fp-right img {
+    width: 200px;
+    margin: 0 auto;
+  }
+  .green-box-sp {
+    width: 180px;
+    margin: 0 auto;
+  }
+  .green-box-sp p {
+    font-size: 12px;
+    margin: 0 10px;
+    text-align: center;
+  }
+  .five-head {
+    width: 320px;
+  }
+  .five-header h1 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .five-text p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .five-body {
+    display: inline-block;
+    width: 250px;
+  }
+  .five-list {
+    width: 250px;
+    gap: 0px;
+  }
+  .list-row {
+    width: 250px;
+  }
+  .list-row p {
+    font-size: 18px;
+  }
+  .body-img img {
+    width: 230px;
+    margin: 30px 0px 60px 20px;
+  }
+  .list-rowr {
+    width: 250px;
+    height: 72px;
+  }
+  .list-rowr {
+    width: 250px;
+  }
+  .list-rowr p {
+    font-size: 18px;
+  }
+  .six {
+    width: 320px;
+    height: 1600px;
+  }
+  .six-head {
+    width: 280px;
+  }
+  .six-head h1 {
+    font-size: 20px;
+  }
+  .six-row {
+    display: inline-block;
+    width: 280px;
+    height: 600px;
+  }
+  .row-one {
+    width: 280px;
+    height: 250px;
+  }
+  .row-icon {
+    width: 60px;
+    height: 60px;
+  }
+  .row-icon img {
+    width: 100%;
+  }
+  .row-text {
+    width: 300px;
+  }
+  .first-line h2 {
+    font-size: 14px;
+    line-height: 30px;
+  }
+  .second-line p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .under-button1 {
+    height: 1600px;
+  }
+  .seven {
+    height: 1800px;
+  }
+  .nine {
+    height: 1800px;
+  }
+  .margin-eight {
+    margin: 100px 0 0 0;
+  }
+  .faq-part {
+    width: 320px;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .faq-head h1 {
+    font-size: 28px;
+  }
+  .faq-box {
+    width: 280px;
+  }
+  .question {
+    width: 280px;
+  }
+  .question p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .answer p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .fl-footer {
+    width: 280px;
+    padding: 10px 0 0;
+    gap: 5px;
+  }
+  .fl-head {
+    width: 250px;
+  }
+  .fl-head p {
+    font-size: 5px;
+    line-height: 10px;
+    margin: 0 5px;
+  }
+  .fl-footer img {
+    width: 250px;
+  }
+  .fl-bottom {
+    width: 280px;
+  }
+  .fl-bottom p {
+    width: 280px;
+    font-size: 5px;
+    line-height: 10px;
+    margin: 0 5px;
+    text-align: center;
+  }
+  .sl-footer {
+    width: 280px;
+  }
+  .sl-footer p {
+    font-size: 6px;
+    line-height: 15px;
+  }
+  .tl-footer {
+    width: 280px;
+  }
+  .tl-footer p {
+    font-size: 6px;
+    line-height: 15px;
+  }
+} ;
